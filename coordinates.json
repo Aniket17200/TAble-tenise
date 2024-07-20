@@ -1,0 +1,60 @@
+{
+    "point1": {
+        "user_click": [800, 30],
+        "best_spot": [482, 224]
+    },
+
+
+    "point2": {
+        "user_click": [699, 38],
+        "best_spot": [433, 244]
+    },
+
+    
+    "point3": {
+        "user_click": [609, 59],
+        "best_spot": [830, 144]
+    },
+
+
+    "point4": {
+        "user_click": [531, 87],
+        "best_spot": [815, 120]
+    },
+
+
+    "point5": {
+        "user_click": [459, 53],
+        "best_spot": [838, 252]
+    },
+
+
+    "point6": {
+        "user_click": [823, 56],
+        "best_spot": [474, 188]
+    },
+
+
+    "point7": {
+        "user_click": [769, 56],
+        "best_spot": [459, 126]
+    },
+
+
+    "point8": {
+        "user_click": [642, 59],
+        "best_spot": [841, 268]
+    },
+
+
+    "point9": {
+        "user_click": [727, 15],
+        "best_spot": [472, 120]
+    },
+
+    
+    "point10": {
+        "user_click": [500, 17],
+        "best_spot": [820, 219]
+    }
+}
